@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-
-/opt/fueue/fueue .code.tio "$@" < .input.tio

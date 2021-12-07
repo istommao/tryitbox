@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-
-php /opt/cood/interpreter.php .code.tio "$@" < .input.tio

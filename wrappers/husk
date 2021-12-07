@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-
-/opt/husk/Husk -u -f .code.tio "$@" < .input.tio

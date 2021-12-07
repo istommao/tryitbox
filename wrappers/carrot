@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-
-/opt/carrot/carrot "${TIO_OPTIONS[@]}" -f .code.tio .input.tio "$@"

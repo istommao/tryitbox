@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-
-python3 /opt/05ab1e/osabie.py .code.tio "$@" < .input.tio

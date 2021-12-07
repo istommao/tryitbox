@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-
-python3 /opt/golfish/src/golfish.py .code.tio "$@" < .input.tio

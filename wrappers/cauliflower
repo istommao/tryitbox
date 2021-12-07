@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-
-/opt/broccoli/Broccoli/bin/*/*/*/publish/Broccoli -c .code.tio "$@" < .input.tio

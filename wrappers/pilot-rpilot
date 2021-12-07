@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-
-/opt/pilot-rpilot/rpilot .code.tio "$@" < .input.tio

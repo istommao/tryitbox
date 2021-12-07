@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-
-ruby /opt/pyramid-scheme/pyra.rb .code.tio "$@" < .input.tio

@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-
-/opt/parenthesis-hell/ph .code.tio "$@" < .input.tio

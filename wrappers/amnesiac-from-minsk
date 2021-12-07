@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-
-/opt/amnesiac-from-minsk/tafm .code.tio "$@" < .input.tio

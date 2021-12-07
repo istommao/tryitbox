@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-
-node /opt/simplex/simplex.js .code.tio "$@" < .input.tio

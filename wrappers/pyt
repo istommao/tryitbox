@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-
-python2 /opt/pyt/pyt/src/pyt/pyt.py -f .code.tio "$@" < .input.tio

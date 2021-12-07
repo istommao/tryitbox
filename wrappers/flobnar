@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-
-/opt/flobnar/target/release/flobnar .code.tio "$@" < .input.tio

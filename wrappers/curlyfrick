@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-
-python3 /opt/curlyfrick/CF.py .code.tio "$@" < .input.tio

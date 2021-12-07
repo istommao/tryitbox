@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-
-/opt/postscript-xpost/bin/xpost "${TIO_OPTIONS[@]}" --device=null .code.tio "$@" < .input.tio

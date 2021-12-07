@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-
-/opt/bitch-bith/hs/bit-h "${TIO_OPTIONS[@]}" .code.tio "$@" < .input.tio

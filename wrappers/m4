@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-
-m4 "${TIO_OPTIONS[@]}" .code.tio "$@" < .input.tio

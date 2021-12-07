@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-
-/opt/sakura/sakura -u .code.tio "$@" < .input.tio

@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-
-/opt/rk/rk .code.tio "$@" < .input.tio

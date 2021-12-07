@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-
-python2 /opt/lost/lost.py .code.tio "$@" < .input.tio

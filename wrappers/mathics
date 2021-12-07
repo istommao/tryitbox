@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-
-/opt/mathics/.local/share/virtualenvs/*/bin/mathics .code.tio "$@" < .input.tio

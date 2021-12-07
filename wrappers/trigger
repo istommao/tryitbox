@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-
-/opt/trigger/trigger .code.tio .input.tio "$@"

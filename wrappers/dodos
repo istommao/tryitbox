@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-
-/opt/dodos/dodos "${TIO_OPTIONS[@]}" .code.tio "$@" < .input.tio

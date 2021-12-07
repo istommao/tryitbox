@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-
-/opt/neutrino/neutrino .code.tio -u "$@" < .input.tio

@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-
-/opt/minimal-2d/minimal-2d .code.tio "$@" < .input.tio

@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-
-/opt/hobbes/hi -s -x .code.tio "$@" < .input.tio

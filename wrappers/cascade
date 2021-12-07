@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-
-perl6 /opt/cascade/Cascade.p6 .code.tio "$@" < .input.tio

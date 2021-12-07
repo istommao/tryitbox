@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-
-node /opt/empty-nest/emptynest.js "${TIO_OPTIONS[@]}" .code.tio "$@" < .input.tio

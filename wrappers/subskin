@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-
-/opt/subskin/subskin .code.tio "$@" < .input.tio

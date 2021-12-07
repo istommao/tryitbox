@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-
-/opt/racket/bin/racket .code.tio "$@" < .input.tio

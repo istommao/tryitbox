@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-
-/opt/nameless/dist/build/nameless/nameless .code.tio "$@" < .input.tio

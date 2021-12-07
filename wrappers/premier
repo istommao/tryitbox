@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-
-ruby /opt/premier/premier.rb .code.tio "$@" < .input.tio

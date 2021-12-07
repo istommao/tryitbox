@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-
-/opt/functoid/functoid "${TIO_OPTIONS[@]}" .code.tio "$@" < .input.tio

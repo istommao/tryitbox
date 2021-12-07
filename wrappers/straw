@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-
-ruby /opt/straw/straw.rb .code.tio -u "$@" < .input.tio

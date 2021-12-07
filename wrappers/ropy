@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-
-ruby /opt/ropy/ruby/ropy.rb "${TIO_OPTIONS[@]}" .code.tio "$@" < .input.tio

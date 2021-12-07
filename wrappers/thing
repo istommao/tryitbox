@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-
-python3 /opt/thing/thing.py "$(<.code.tio)" 0 "$@" < .input.tio

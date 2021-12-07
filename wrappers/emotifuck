@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-
-/opt/emotifuck/emotifuck .code.tio "$@" < .input.tio

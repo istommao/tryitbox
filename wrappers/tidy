@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-
-ruby /opt/tidy/tidy.rb .code.tio "$@" < .input.tio

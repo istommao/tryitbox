@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-
-/opt/sidef/bin/sidef "${TIO_OPTIONS[@]}" .code.tio "$@" < .input.tio

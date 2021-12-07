@@ -1,5 +1,0 @@
-#!/usr/bin/env bash
-
-ln -f .code.tio .code.tio.pl
-swipl -q -f .code.tio.pl "$@" < .input.tio
-

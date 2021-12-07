@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-
-/opt/javascript-spidermonkey/bin/js "${TIO_OPTIONS[@]}" .code.tio "$@" < .input.tio

@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-
-/opt/caboose/bin/caboose .code.tio "$@" < .input.tio

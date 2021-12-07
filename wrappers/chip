@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-
-python3 /opt/chip/chip.py .code.tio "$@" < .input.tio

@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-
-gnuplot .code.tio "$@" < .input.tio

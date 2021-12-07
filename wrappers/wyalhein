@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-
-python3 /opt/wyalhein/whenyouaccidentallylose100endorsementsinnationstates.py .code.tio "$@" < .input.tio

@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-
-/opt/enlist/enlist fu .code.tio "$@" < .input.tio

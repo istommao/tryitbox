@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-
-python "${TIO_OPTIONS[@]}" .code.tio "$@" < .input.tio

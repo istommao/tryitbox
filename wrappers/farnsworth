@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-
-perl -X -MLanguage::Farnsworth -e 'print Language::Farnsworth->new()->runFile(".code.tio")' < .input.tio

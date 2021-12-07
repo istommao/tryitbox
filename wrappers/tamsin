@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-
-/opt/tamsin/bin/tamsin .code.tio "$@" < .input.tio

@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-
-python2 /opt/resplicate/resplicate.py -f .code.tio "$@" < .input.tio

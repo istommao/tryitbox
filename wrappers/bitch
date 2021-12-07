@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-
-java -cp /opt/bitch bitch "${TIO_OPTIONS[@]}" .code.tio "$@" < .input.tio

@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-
-python2 /opt/silberjoder/silberjoder.py .code.tio "$@" < .input.tio

@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-
-/opt/php/bin/php -c /etc "${TIO_OPTIONS[@]}" .code.tio "$@" < .input.tio

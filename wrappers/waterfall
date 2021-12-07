@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-
-/opt/waterfall/target/release/ratiofall .code.tio "$@" < .input.tio

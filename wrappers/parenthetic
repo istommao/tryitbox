@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-
-python /opt/parenthetic/parenthetic.py < .code.tio

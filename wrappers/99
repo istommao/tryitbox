@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-
-/opt/99/ninetynine .code.tio "$@" < .input.tio

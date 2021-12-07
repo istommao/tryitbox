@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-
-python3 /opt/verbosity2/verbosity2.py -f .code.tio "$@" < .input.tio

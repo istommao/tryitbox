@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-
-ruby /opt/memory-gap/memGAP.rb .code.tio "$@" < .input.tio

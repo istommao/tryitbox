@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-
-perl /opt/7/7.pl .code.tio "$@" < .input.tio

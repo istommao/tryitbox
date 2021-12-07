@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-
-python3 /opt/pushy/source/pushy.py f .code.tio "$@" < .input.tio

@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-
-python3 /opt/bctbww/BitwiseCyclicTagButWayWorse2.0.py .code.tio "$@" < .input.tio

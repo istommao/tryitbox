@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-
-/opt/shapescript/shapescript .code.tio "$@" < .input.tio

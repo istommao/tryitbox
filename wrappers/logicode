@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-
-python /opt/logicode/logicode.py --file .code.tio --input .input.tio "$@"

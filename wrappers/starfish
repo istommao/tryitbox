@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-
-/opt/starfish/go/bin/starfish "${TIO_OPTIONS[@]}" .code.tio "$@" < .input.tio

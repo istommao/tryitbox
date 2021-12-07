@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-
-/opt/dirty/dirty "${TIO_OPTIONS[@]}" -u .code.tio "$@" < .input.tio

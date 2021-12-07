@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-
-sfk "${TIO_OPTIONS[@]}" script .code.tio "$@" < .input.tio

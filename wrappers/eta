@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-
-/opt/eta/eta .code.tio "$@" < .input.tio

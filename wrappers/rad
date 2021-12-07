@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-
-/opt/rad/RAD fu .code.tio "$@" < .input.tio

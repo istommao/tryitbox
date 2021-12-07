@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-
-/opt/brainbash/brainbash .code.tio "$@" < .input.tio

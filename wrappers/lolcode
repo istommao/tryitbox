@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-
-/opt/lolcode/bin/lci .code.tio "$@" < .input.tio

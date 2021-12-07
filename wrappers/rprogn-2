@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-
-java -jar /opt/rprogn-2/RProgN_v2_0_1.jar .code.tio "$@" < .input.tio

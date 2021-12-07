@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-
-python2 /opt/2dfuck/2dfuck.py "${TIO_OPTIONS[@]}" .code.tio "$@" < .input.tio

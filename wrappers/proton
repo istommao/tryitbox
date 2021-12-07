@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-
-/opt/proton/proton .code.tio "$@" < .input.tio

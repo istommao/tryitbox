@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-
-perl /opt/wasm/wawrapper/wawrapper.pl "${TIO_OPTIONS[@]}" .code.tio "$@" < .input.tio

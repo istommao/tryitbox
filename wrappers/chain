@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-
-ruby /opt/chain/chain.rb -u .code.tio "$@" < .input.tio

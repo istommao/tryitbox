@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-
-/opt/bracmat/bracmat "$(<.code.tio)" "$@" < .input.tio

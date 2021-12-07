@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-
-/opt/incident/incident "${TIO_CFLAGS[@]}" .code.tio "$@" < .input.tio

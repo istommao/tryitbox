@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-
-/opt/bitch-shifty/cc/shifty "${TIO_OPTIONS[@]}" .code.tio "$@" < .input.tio

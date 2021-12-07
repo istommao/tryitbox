@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-
-python2 /opt/superstack/superstack.py .code.tio "$@" < .input.tio

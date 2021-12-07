@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-
-PATH="/opt/java-jdk/bin:$PATH" BASH_ENV="$BASH_ENV" "${0/-jdk/-openjdk}" "$@"

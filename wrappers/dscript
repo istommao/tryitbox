@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-
-/opt/dscript/DScript .code.tio "$@" < .input.tio

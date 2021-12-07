@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-
-/opt/snails/snails/snails .code.tio .input.tio

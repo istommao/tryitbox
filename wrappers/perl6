@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-
-/opt/rakudo-pkg/bin/perl6 "${TIO_OPTIONS[@]}" .code.tio "$@" < .input.tio

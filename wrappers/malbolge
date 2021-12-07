@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-
-/opt/malbolge/malbolge .code.tio < .input.tio

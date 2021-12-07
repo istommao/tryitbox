@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-
-ruby /opt/grass/grass.rb .code.tio "$@" < .input.tio

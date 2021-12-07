@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-
-python3 /opt/dreaderef/interpreter.py .code.tio "$@" < .input.tio

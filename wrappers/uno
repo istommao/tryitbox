@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-
-python3 /opt/uno/uno.py .code.tio "$@" < .input.tio

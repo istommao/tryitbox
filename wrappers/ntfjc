@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-
-/opt/ntfjc/ntfjc .code.tio "$@" < .input.tio

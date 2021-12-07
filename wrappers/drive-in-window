@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-
-python2 /opt/drive-in-window/drive-in_window.py .code.tio "$@" < .input.tio

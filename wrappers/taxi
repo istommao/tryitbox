@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-
-/opt/taxi/taxi .code.tio "$@" < .input.tio

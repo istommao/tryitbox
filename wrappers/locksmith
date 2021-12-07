@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-
-/opt/locksmith/locksmith .code.tio "$@" < .input.tio

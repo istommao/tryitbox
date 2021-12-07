@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-
-ruby /opt/cy/cy.rb -f .code.tio "$@" < .input.tio

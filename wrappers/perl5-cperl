@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-
-/opt/perl5-cperl/bin/cperl* "${TIO_OPTIONS[@]}" -f .code.tio "$@" < .input.tio

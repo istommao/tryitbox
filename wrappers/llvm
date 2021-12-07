@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-
-lli "${TIO_CFLAGS[@]}" .code.tio "$@" < .input.tio

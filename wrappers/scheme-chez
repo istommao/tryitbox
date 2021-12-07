@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-
-/opt/scheme-chez/bin/scheme --script .code.tio "$@" < .input.tio

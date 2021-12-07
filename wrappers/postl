@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-
-java -cp /opt/postl/PostLang/bin interpreter.Interpreter .code.tio "$@" < .input.tio

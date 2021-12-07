@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-
-lua /opt/taco/main.lua .code.tio "$@" < .input.tio

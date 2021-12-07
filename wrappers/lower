@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-
-ruby /opt/attache/attache.rb /opt/lower/Lower.@ .code.tio "$@" < .input.tio

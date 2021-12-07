@@ -1,5 +1,0 @@
-#!/usr/bin/env bash
-
-cp /opt/ybc/{ybc,*.s} .
-./ybc "${TIO_CFLAGS[@]}" -o .bin.tio .code.tio >&2
-./.bin.tio "$@" < .input.tio

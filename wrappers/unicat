@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-
-python /opt/unicat/cat.py .code.tio "$@" < .input.tio

@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-
-python /opt/prelude/prelude.py .code.tio "$@" < .input.tio

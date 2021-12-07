@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-
-/opt/forked/interp .code.tio "$@" < .input.tio

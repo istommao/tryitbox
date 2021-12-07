@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-
-python3 -m dg .code.tio --do-something-useful-this-time "$@" < .input.tio

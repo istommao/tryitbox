@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-
-mono /opt/supermariolang/SuperMarioLang/bin/Release/*/SuperMarioLang.dll "${TIO_OPTIONS[@]}" .code.tio "$(<.input.tio)"

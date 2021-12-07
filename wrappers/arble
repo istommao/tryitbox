@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-
-lua /opt/arble/short.lua .code.tio "$@" < .input.tio

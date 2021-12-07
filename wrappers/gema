@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-
-/opt/gema/src/gema -f .code.tio "$@" < .input.tio

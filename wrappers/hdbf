@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-
-/opt/hdbf/hdbf "${TIO_OPTIONS[@]}" .code.tio "$@" < .input.tio

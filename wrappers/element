@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-
-perl /opt/element/InterpreterTIO.plx "$(<.code.tio)" "$@" < .input.tio

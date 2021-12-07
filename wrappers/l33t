@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-
-/opt/l33t/l33t .code.tio "$@" < .input.tio

@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-
-/opt/malbolge-unshackled/unshackled .code.tio < .input.tio

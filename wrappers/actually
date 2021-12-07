@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-
-seriously -f .code.tio "$@" < .input.tio

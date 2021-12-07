@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-
-python2 /opt/snusp-bloated/snusp.py -b .code.tio -i .input.tio

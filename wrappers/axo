@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-
-/opt/axo/axo .code.tio "$@" < .input.tio

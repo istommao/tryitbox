@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-
-/opt/gwion/gwion "${TIO_OPTIONS[@]}" .code.tio "$@" < .input.tio

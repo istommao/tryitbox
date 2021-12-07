@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-
-/opt/catholicon/catholicon -u .code.tio "$@" < .input.tio

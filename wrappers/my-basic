@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-
-/opt/my-basic/my-basic .code.tio "$@" < .input.tio
